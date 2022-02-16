@@ -5,7 +5,7 @@ from vk_api import VkTools
 from vk_api.longpoll import VkLongPoll, VkEventType
 
 import DataBase
-from get_token import token, token2
+from settings import token, token2
 from vk_api.keyboard import VkKeyboard, VkKeyboardColor
 from help_menu import Help_menu
 from search_users import info_filter

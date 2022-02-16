@@ -1,5 +1,5 @@
 import vk_api
-from get_token import token2, token
+from settings import token2, token
 from pprint import pprint
 from vk_api import VkTools
 import requests
